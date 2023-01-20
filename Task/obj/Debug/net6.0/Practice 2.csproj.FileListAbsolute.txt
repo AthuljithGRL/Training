@@ -1,0 +1,17 @@
+D:\Athuljith\Athuljith\Practise 2\bin\Debug\net6.0\Practice 2.exe
+D:\Athuljith\Athuljith\Practise 2\bin\Debug\net6.0\Practice 2.deps.json
+D:\Athuljith\Athuljith\Practise 2\bin\Debug\net6.0\Practice 2.runtimeconfig.json
+D:\Athuljith\Athuljith\Practise 2\bin\Debug\net6.0\Practice 2.dll
+D:\Athuljith\Athuljith\Practise 2\bin\Debug\net6.0\Practice 2.pdb
+D:\Athuljith\Athuljith\Practise 2\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Athuljith\Athuljith\Practise 2\obj\Debug\net6.0\Practice 2.csproj.AssemblyReference.cache
+D:\Athuljith\Athuljith\Practise 2\obj\Debug\net6.0\Practice 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Athuljith\Athuljith\Practise 2\obj\Debug\net6.0\Practice 2.AssemblyInfoInputs.cache
+D:\Athuljith\Athuljith\Practise 2\obj\Debug\net6.0\Practice 2.AssemblyInfo.cs
+D:\Athuljith\Athuljith\Practise 2\obj\Debug\net6.0\Practice 2.csproj.CoreCompileInputs.cache
+D:\Athuljith\Athuljith\Practise 2\obj\Debug\net6.0\Practice 2.csproj.CopyComplete
+D:\Athuljith\Athuljith\Practise 2\obj\Debug\net6.0\Practice 2.dll
+D:\Athuljith\Athuljith\Practise 2\obj\Debug\net6.0\refint\Practice 2.dll
+D:\Athuljith\Athuljith\Practise 2\obj\Debug\net6.0\Practice 2.pdb
+D:\Athuljith\Athuljith\Practise 2\obj\Debug\net6.0\Practice 2.genruntimeconfig.cache
+D:\Athuljith\Athuljith\Practise 2\obj\Debug\net6.0\ref\Practice 2.dll

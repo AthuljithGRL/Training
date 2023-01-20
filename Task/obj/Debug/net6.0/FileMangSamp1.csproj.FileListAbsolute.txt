@@ -1,0 +1,17 @@
+D:\Athuljith\Athuljith\Practise 2\obj\Debug\net6.0\FileMangSamp1.csproj.AssemblyReference.cache
+D:\Athuljith\Athuljith\Practise 2\obj\Debug\net6.0\FileMangSamp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Athuljith\Athuljith\Practise 2\obj\Debug\net6.0\FileMangSamp1.AssemblyInfoInputs.cache
+D:\Athuljith\Athuljith\Practise 2\obj\Debug\net6.0\FileMangSamp1.AssemblyInfo.cs
+D:\Athuljith\Athuljith\Practise 2\obj\Debug\net6.0\FileMangSamp1.csproj.CoreCompileInputs.cache
+D:\Athuljith\Athuljith\Practise 2\bin\Debug\net6.0\FileMangSamp1.exe
+D:\Athuljith\Athuljith\Practise 2\bin\Debug\net6.0\FileMangSamp1.deps.json
+D:\Athuljith\Athuljith\Practise 2\bin\Debug\net6.0\FileMangSamp1.runtimeconfig.json
+D:\Athuljith\Athuljith\Practise 2\bin\Debug\net6.0\FileMangSamp1.dll
+D:\Athuljith\Athuljith\Practise 2\bin\Debug\net6.0\FileMangSamp1.pdb
+D:\Athuljith\Athuljith\Practise 2\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Athuljith\Athuljith\Practise 2\obj\Debug\net6.0\FileMangSamp1.csproj.CopyComplete
+D:\Athuljith\Athuljith\Practise 2\obj\Debug\net6.0\FileMangSamp1.dll
+D:\Athuljith\Athuljith\Practise 2\obj\Debug\net6.0\refint\FileMangSamp1.dll
+D:\Athuljith\Athuljith\Practise 2\obj\Debug\net6.0\FileMangSamp1.pdb
+D:\Athuljith\Athuljith\Practise 2\obj\Debug\net6.0\FileMangSamp1.genruntimeconfig.cache
+D:\Athuljith\Athuljith\Practise 2\obj\Debug\net6.0\ref\FileMangSamp1.dll
